@@ -1,0 +1,1 @@
+`git remote add origin git@github-clientside:clientsideco/[repo-name].git`
